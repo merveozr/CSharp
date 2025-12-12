@@ -1,0 +1,11 @@
+C:\Users\Merve\Desktop\CSharp\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Merve\Desktop\CSharp\Client\Client\bin\Debug\Client.exe
+C:\Users\Merve\Desktop\CSharp\Client\Client\bin\Debug\Client.pdb
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.exe
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.pdb
+C:\Users\Merve\Desktop\CSharp\Client\Client\obj\Debug\Client.exe.config
